@@ -1,0 +1,40 @@
+.participantTitle {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 42.5%;
+    float: left;
+}
+
+.participantLink{
+    padding-right: 20%;
+    padding-top: 10px;
+    float: right;
+}
+
+.btn{
+  padding: 8px 20px;
+  border-radius: 2px;
+  color: #6492e9;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+  
+.btn-primary{
+  background-color:#9C3848;
+  color: #e7e9e7;
+  border: 1px solid var(--primary);
+}
+
+table tr td {
+  border-right: 2px solid black;
+  color: black
+}
+
+tr {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+.eventTitle {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 42.5%;
+  float: left;
+}
+
+.eventLink{
+  padding-right: 20%;
+  padding-top: 10px;
+  float: right;
+}
+
+table{
+  table-layout: auto;
+}
+
+table tr td {
+border-right: 1px solid black;
+color: black;
+}
+
+tr {
+text-align: center;
+}
+
+td {
+text-align: center;
+}

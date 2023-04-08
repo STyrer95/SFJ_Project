@@ -1,0 +1,54 @@
+@media print
+{
+    body * { visibility: hidden; }
+    #section-to-print, #section-to-print * {
+        visibility: visible;
+    }
+    #section-to-print {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    
+    .table{
+        table-layout: fixed;
+    }
+    
+    table tr td {
+      border-right: 1px solid black;
+      color: black;
+    }
+    
+    tr {
+      text-align: center;
+    }
+    
+    td {
+      text-align: center;
+      
+      width: 100%;
+    }
+
+    .extraInfo{
+        float: right;
+        border: 1px solid black;
+    }
+
+    .orderSpan{
+      float: right;
+    }
+
+    .nameSpan{
+      float:left;
+    }
+}
+
+.orderSpan{
+  float: right;
+  padding-right: 20%;
+}
+
+.nameSpan{
+  float: left;
+  padding-left: 10%;
+}

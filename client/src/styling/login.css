@@ -1,0 +1,24 @@
+/*body{
+    background: url('../../public/nightStageBothCranked.jpg') center center/cover no-repeat;
+}*/
+
+.label {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.formBox {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+
+.select {
+    text-align: left;
+}

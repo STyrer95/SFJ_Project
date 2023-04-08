@@ -1,0 +1,27 @@
+.createEvent {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color:black;
+    font: bold;
+  }
+  
+  .form-group{
+  width: 45%;
+  float:left;
+  padding-left: 5%;
+  }
+  
+  .clear{
+  clear:both;
+  }
+  
+  .h3{
+    text-align: center;
+    padding-right: 5%;
+  }
+  
+  .button{
+    text-align: center;
+    padding-right: 5% ;
+  }

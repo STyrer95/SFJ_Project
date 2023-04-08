@@ -1,0 +1,26 @@
+.regNum{
+    width: 65%;
+    
+    padding-left: 30%;
+}
+
+.form-group{
+    width: 45%;
+    float:left;
+    padding-left: 5%;
+    }
+    
+.clear{
+    clear:both;
+    }
+    
+.h3{
+    text-align: center;
+    padding-right: 5%;
+  }
+  
+.button{
+    text-align: center;
+    padding-right: 5%;
+  
+  }
