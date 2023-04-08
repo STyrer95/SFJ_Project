@@ -1,0 +1,32 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+## CLIENT
+# dependencies
+sfj-crs/client/node_modules/
+sfj-crs/client/.pnp/
+sfj-crs/client/.pnp.js
+
+# testing
+sfj-crs/client/coverage/
+
+# production
+sfj-crs/client//build/
+
+# misc
+sfj-crs/client/.DS_Store
+sfj-crs/client/.env.local
+sfj-crs/client/.env.development.local
+sfj-crs/client/.env.test.local
+sfj-crs/client/.env.production.local
+
+sfj-crs/client/npm-debug.log*
+sfj-crs/client/yarn-debug.log*
+sfj-crs/client/yarn-error.log*
+
+
+## SERVER
+# dependencies
+sfj-crs/server/node_modules/
+
+sfj-crs/run-crs-c.bat
+sfj-crs/mongod.exe.lnk
